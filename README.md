@@ -62,7 +62,7 @@ asciinema rec <filename>.cast
 
 ### 1.2 録画の再生
 
-`asciinema play` コマンドを使用して録画します。
+`asciinema play` コマンドを使用して再生します。
 
 ```
 asciinema play how-to-rec.cast
