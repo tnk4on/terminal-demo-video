@@ -126,6 +126,7 @@ agg --cols 50 --rows 20 how-to-rec.cast how-to-rec.gif
 ```
 
 <`--cols 50 --rows 20`でGIFファイルに変換した例>
+
 ![how-to-rec.gif](how-to-rec.gif)
 
 <`samples/`のファイルの例>
