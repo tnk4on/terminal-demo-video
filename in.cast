@@ -1,0 +1,8 @@
+{"version": 2, "width": 272, "height": 63, "timestamp": 1682583425, "env": {"SHELL": "/bin/bash", "TERM": "xterm-256color"}}
+[0.035087, "o", "\u001b]0;root@fedora-server:~/tmp\u0007"]
+[0.036084, "o", "\u001b[?2004h$ "]
+[1.030083, "o", "\u001b[7mpodman run --rm -it quay.io/podman/hello\u001b[27m"]
+[1.658674, "o", "\r\u001b[C\u001b[Cpodman run --rm -it quay.io/podman/hello\r\n\u001b[?2004l\r"]
+[1.83523, "o", "!... Hello Podman World ...!\r\n\r\n         .--\"--.           \r\n       / -     - \\         \r\n      / (O)   (O) \\        \r\n   ~~~| -=(,Y,)=- |         \r\n    .---. /`  \\   |~~      \r\n ~/  o  o \\~~~~.----. ~~   \r\n  | =(X)= |~  / (O (O) \\   \r\n   ~~~~~~~  ~| =(Y_)=-  |   \r\n  ~~~~    ~~~|   U      |~~ \r\n\r\nProject:   https://github.com/containers/podman\r\nWebsite:   https://podman.io\r\nDocuments: https://docs.podman.io\r\nTwitter:   @Podman_io\r\n"]
+[2.075919, "o", "\u001b]0;root@fedora-server:~/tmp\u0007\u001b[?2004h$ "]
+[3.27779, "o", "\u001b[?2004l\r\r\nexit\r\n"]
